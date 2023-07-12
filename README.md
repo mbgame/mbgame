@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mbgame
 - 👀 I’m interested in Game development
-- 🌱 I’m currently learning nodejs and reactjs
+- 🌱 I’m senior in MERN stack
 - 💞️ I’m looking to collaborate on game
 - 📫 How to reach me : mohsen.bashirzadeh@gmail.com
 
